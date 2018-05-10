@@ -1,0 +1,2 @@
+Tensorflow version doesn't seem to affect darkflow (speculated)
+  version 1.0.1 and 1.4.1 generate the same errors 
